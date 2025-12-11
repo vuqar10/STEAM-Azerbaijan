@@ -18,7 +18,7 @@ Layihənin məqsədi tələbələri əsas OpenCV funksiyalarından başlayaraq, 
 | 9 | Avtonom Hərəkət: Kəskin Hədəfləmə | Python Kodları & Arduino Kodları |
 | 10 | Həssas Sükan: Proportional Control | Python Kodları & Arduino Kodları |
 
-## 🛠 Tələblər
+## Tələblər
 
 * **Python:** 3.x
 * **Arduino IDE**
