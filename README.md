@@ -6,17 +6,17 @@ Layihənin məqsədi tələbələri əsas OpenCV funksiyalarından başlayaraq, 
 
 ## 📚 Dərslərin İcmalı
 
-| Dərs № | Mövzu Adı | Python Kodu | Arduino Kodu |
+| Dərs № | Mövzu Adı | 
 | :---: | :--- | :--- | :--- |
-| 2 | OpenCV ilə Görüntü Emalına Giriş | `lesson2_image.py` | - |
-| 3 | Rəngləri Tanıyaq (HSV Maska) | `lesson3_color_static.py` | - |
-| 4 | Kompüterin Rəngə Görə Reaksiyası (if Şərti) | `lesson4_color_reaction.py` | - |
-| 5 | Obyektin Mərkəzini Tapmaq (Centroid) | `lesson5_object_center.py` | - |
-| 6 | Serial Əlaqə: Beyin və Bədəni Birləşdirmə | `lesson6_sender.py` | `lesson6_receiver.ino` |
-| 7 | Robotun Ayaqları: Motorlar və L298N | - | `lesson7_motors.ino` |
-| 8 | Məsafədən İdarəetmə (WASD) | `lesson8_remote_sender.py` | `lesson8_remote_receiver.ino` |
-| 9 | Avtonom Hərəkət: Kəskin Hədəfləmə | `lesson9_autonomous_tracker.py` | `lesson9_autonomous_drive.ino` |
-| 10 | Həssas Sükan: Proportional Control | `lesson10_proportional_controller.py` | `lesson10_proportional_drive.ino` |
+| 2 | OpenCV ilə Görüntü Emalına Giriş 
+| 3 | Rəngləri Tanıyaq (HSV Maska) 
+| 4 | Kompüterin Rəngə Görə Reaksiyası (if Şərti) 
+| 5 | Obyektin Mərkəzini Tapmaq (Centroid) 
+| 6 | Serial Əlaqə: Beyin və Bədəni Birləşdirmə 
+| 7 | Robotun Ayaqları: Motorlar və L298N 
+| 8 | Məsafədən İdarəetmə (WASD) 
+| 9 | Avtonom Hərəkət: Kəskin Hədəfləmə 
+| 10 | Həssas Sükan: Proportional Control 
 
 ## 🛠 Tələblər
 
